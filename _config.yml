@@ -107,7 +107,6 @@ author:
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Aspiring DevOps Engineer "
   location: "Papua New Guinea, Port Moresby"
-  email: ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,6 +123,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rex-makusia-00333994/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
