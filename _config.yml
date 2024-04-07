@@ -107,7 +107,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Aspiring DevOps Engineer "
   location: "Papua New Guinea, Port Moresby"
-  email:
+  email: "Email"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
