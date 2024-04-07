@@ -123,7 +123,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "fab fa-fw fa-linkedin"
+    - label: LinkedIn
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rex-makusia-00333994/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
