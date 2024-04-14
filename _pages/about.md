@@ -3,8 +3,6 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 ## Introduction
 
 Hello, I'm Rex Makusia, a passionate Junior DevOps Engineer with a keen interest in leveraging technology to streamline development processes and enhance system reliability. My goal is to contribute to innovative projects while continuously learning and growing in the ever-evolving field of DevOps.
