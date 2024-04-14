@@ -14,14 +14,6 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "mint" # default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-header:
-  pages:
-    - title: Home
-      url: /
-    - title: About
-      url: /about/
-    # Add more pages as needed
-
 # Site Settings
 locale: "en-US"
 title: "Grecpt"
@@ -290,3 +282,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+layout: page
+title: About
+permalink: /about/
+
