@@ -236,12 +236,6 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
----
-layout: page
-title: About
-permalink: /about/
----
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
